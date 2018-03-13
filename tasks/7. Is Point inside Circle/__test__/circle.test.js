@@ -6,17 +6,25 @@ describe('Circle.includes() function', () => {
 
   it('should return FALSE if the point is outside the circle', function() {
 
-    const Point = Point(3,4);
-    const reducer = (acc, curr) => acc += curr;
+    const point = Point(3, 4);
+    const circle = Circle(Point(1, 2), 2);
 
-    expect(Reduce(array, reducer, 0)).to.equal(15);
+    expect(circle.includes(point)).to.equal(false);
   });
 
-  it('should work with strings', function() {
+  it('should return TRUE if the point is inside the circle', function() {
 
-    const array = ['this ', 'is ', 'a ', 'string'];
-    const reducer = (acc, curr) => acc.concat(curr);
+    const point = Point(3, 4);
+    const circle = Circle(Point(1, 2), 3);
 
-    expect(Reduce(array, reducer, '')).to.equal('this is a string');
+    expect(circle.includes(point)).to.equal(true);
+  });
+
+  it('should return TRUE if the point is tangential to the circle', function() {
+
+    const point = Point(3, 3);
+    const circle = Circle(Point(1, 3), 2);
+
+    expect(circle.includes(point)).to.equal(true);
   });
 });
