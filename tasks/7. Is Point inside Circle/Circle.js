@@ -1,6 +1,6 @@
 import Point from './Point';
 
-export default function (center, radius) {
+export default function(center, radius) {
   return {
     center,
     radius,
