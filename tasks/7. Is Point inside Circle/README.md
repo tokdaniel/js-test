@@ -6,8 +6,8 @@ NOTE: We provided you the basic implementation of **Point** and **Circle**. **Fe
 
 ## Examples:
 
-*examplePoint: ```Point(3,4)```
-*exampleCircle: ```Circle(Point(1,3), 5)```
+* examplePoint: ```Point(3,4)```
+* exampleCircle: ```Circle(Point(1,3), 5)```
 
 ```exampleCircle.includes(examplePoint) // returns true```
 
