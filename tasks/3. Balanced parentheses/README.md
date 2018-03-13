@@ -1,21 +1,17 @@
-Balanced parentheses
+# Balanced parentheses
 
-Implement a function that takes in a string, and determines if the opening and closing parentheses in the given string are matching correctly returning the appropriate boolean value.
+Implement a function that **takes in a string**, and determines if the **opening** and **closing parentheses** in the given string are **matching correctly** returning the appropriate boolean value.
 
-Examples:
+## Examples:
 
-Correct cases (should return true):
-(()()()())
+### Correct cases (should return true):
+* (()()()())
+* (((())))
+* (()((())()))
 
-(((())))
+### Incorrect cases (should return false)
+* ((((((())
+* ()))
+* (()())()
 
-(()((())()))
-
-Incorrect cases (should return false)
-((((((())
-
-()))
-
-(()())()
-
-There can be characters anywhere between, after or before the parenteses.
+**There can be characters anywhere between, after or before the parenteses**.
