@@ -6,8 +6,8 @@ Implement a function **that takes a string** and a **numeric key**, and **return
 
 ## Examples:
 
-* encodeCaesar("GAMEOFTHRONES", 1) // returns "HBNFPGUISPOFT"
-* encodeCaesar("GAMEOFTHRONES", 3) // returns "JDPHRIWKURQHV"
+* ```encodeCaesar("GAMEOFTHRONES", 1) // returns "HBNFPGUISPOFT"```
+* ```encodeCaesar("GAMEOFTHRONES", 3) // returns "JDPHRIWKURQHV"```
 
 ### Bonus
 * Implement the function which decrypts an encrypted text, if we know the key. Give more solutions based on different logics if you can.
