@@ -4,16 +4,16 @@ This is a repository **for employees** to review their interview subjects curren
 **Try to give a generic solution, rather than just satisfy the unit tests, since it doesn't do any good for anyone.:)**
 
 ## The tests consist of implementation of several algorithms:
-* **Palindromes** - Check if the given input is a palindrome.
-* **Fibonacci** - Implement a function recursively, which returns the fibonacci numbers until N.
-* **Balanced Parentheses** - Determine if the given input string's parentheses are balanced.
-* **FizzBuzz** - Give your implementation of FizzBuzz.
-* **Caesar's Cipher** - Give your implementation of Caesar's cipher
-* **Reduce** - Implement the javascript utility reduce.
-* **Circle Contains** - Determine if a given point is inside the area of a circle.
+1. **Palindromes** - Check if the given input is a palindrome.
+2. **Fibonacci** - Implement a function recursively, which returns the fibonacci numbers until N.
+3. **Balanced Parentheses** - Determine if the given input string's parentheses are balanced.
+4. **FizzBuzz** - Give your implementation of FizzBuzz.
+5. **Caesar's Cipher** - Give your implementation of Caesar's cipher
+6. **Reduce** - Implement the javascript utility reduce.
+7. **Circle Contains** - Determine if a given point is inside the area of a circle.
 
 ### In every task folder there is a more detailed explanation of the expected task.
-### These are in order of difficulty (according to my subjective judgement).
+These are in order of difficulty (according to my subjective judgement).
 
 ## What you'll need to solve them
 * Your favourite IDE, editor or other stuff that lets you conveniently edit code.
