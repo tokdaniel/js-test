@@ -9,9 +9,9 @@ Examples:
 examplePoint: Point(3,4)
 exampleCircle: Circle(Point(1,3), 5)
 
-circleContains(examplePoint, exampleCircle) // returns true
+exampleCircle.includes(examplePoint) // returns true
 
 examplePoint: Point(1,1)
 exampleCircle: Circle(Point(4,2), 2)
 
-circleContains(examplePoint, exampleCircle) // returns false
+exampleCircle.includes(examplePoint) // returns false
