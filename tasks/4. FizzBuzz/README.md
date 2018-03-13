@@ -4,4 +4,4 @@ Implement a function that **returns an array** with the **numbers from 1 to n**,
 
 ## Example
 
-### FizzBuzz(100) // returns [1, 2, "Fizz", 4, "Buzz", 6, 7, ... 13, 14, "FizzBuzz", ... until 100 ]
+```FizzBuzz(100) // returns [1, 2, "Fizz", 4, "Buzz", 6, 7, ... 13, 14, "FizzBuzz", ... until 100 ]```
