@@ -1,4 +1,4 @@
-# Javascript tests for job applicants
+# Javascript tests for internship/junior developer applicants
 This is a repository **for employees** to review their interview subjects current level of knowledge and thinking. Also for **js-developer wannabes** to practice and learn. 
 
 **Try to give a generic solution, rather than just satisfy the unit tests, since it doesn't do any good for anyone.:)**
