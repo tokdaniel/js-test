@@ -22,4 +22,4 @@ This is a repository **for employees** to review their interview subjects curren
 In every test folder there is a more detailed explanation of the expected task.
 
 ## Check your solutions
-If you think your solution is fine run the **check.bat file**, it will open a report in your default browser and tell you if something is wrong.
+If you think your solution is fine run the **check.bat** file it will open a **report in your default browser** and tell you if something is wrong.
