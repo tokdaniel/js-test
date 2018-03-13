@@ -12,6 +12,6 @@ Implement a function that **takes in a string**, and determines if the **opening
 ### Incorrect cases (should return false)
 * ((((((())
 * ()))
-* (()())()
+* (()()(()
 
 **There can be characters anywhere between, after or before the parenteses**.
