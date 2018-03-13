@@ -11,6 +11,7 @@ This is a repository **for employees** to review their interview subjects curren
 * **Caesar's Cipher** - Give your implementation of Caesar's cipher
 * **Reduce** - Implement the javascript utility reduce.
 * **Circle Contains** - Determine if a given point is inside the area of a circle.
+These are in order of difficulty (according to my subjective judgement).
 
 ## What you'll need to solve them
 * Your favourite IDE, editor or other stuff that lets you conveniently edit code.
