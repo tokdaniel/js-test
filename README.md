@@ -4,7 +4,7 @@ This is a repository **for employees** to review their interview subjects curren
 **Try to give a generic solution, rather than just satisfy the unit tests, since it doesn't do any good for anyone.:)**
 
 ## The tests consist of implementation of several algorithms:
-1. **Palindromes** - Check if the given input is a palindrome.
+1. [Palindromes](https://github.com/tokdaniel/js-test/blob/master/tasks/1.%20Palindrome%20check/README.md) - Check if the given input is a palindrome.
 2. **Fibonacci** - Implement a function recursively, which returns the fibonacci numbers until N.
 3. **Balanced Parentheses** - Determine if the given input string's parentheses are balanced.
 4. **FizzBuzz** - Give your implementation of FizzBuzz.
