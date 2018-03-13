@@ -19,6 +19,7 @@ This is a repository **for employees** to review their interview subjects curren
 * Cloning, or saving this repository to your local filesystem.
 * Some of the newer versions of node.js (https://nodejs.org).
 * Opening a command line and run ```npm install``` in the root folder.
+* Diving in & Googleing some
 
 ## More information
 In every test folder there is a more detailed explanation of the expected task.
