@@ -1,5 +1,5 @@
 # Javascript tests for job applicants
-This is a repository for employees to review their interview subjects current level of knowledge and thinking. Also js-developer wannabes to practice and learn some skills.
+This is a repository for employees to review their interview subjects current level of knowledge and thinking. Also for js-developer wannabes to practice and learn.
 
 ## The tests consist of implementation of several algorithms:
 * Palindromes - Check if the given input is a palindrome.
