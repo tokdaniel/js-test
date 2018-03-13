@@ -23,4 +23,4 @@ These are in order of difficulty (according to my subjective judgement).
 * Diving in & some usage of google
 
 ## Check your solutions
-If you think your solution is fine run the **check.bat** file it will open a **report in your default browser** and tell you if something is wrong. If you are using linux, I hope you'll know what to do.
+If you think your solution is fine run the **check.bat** file it will open a **report in your default browser** and tell you if something is wrong. If you are using linux or mac, I hope you'll know what to do (execute the npm test command, and open mochawesome.html).
