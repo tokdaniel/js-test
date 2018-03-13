@@ -12,6 +12,7 @@ This is a repository **for employees** to review their interview subjects curren
 * **Reduce** - Implement the javascript utility reduce.
 * **Circle Contains** - Determine if a given point is inside the area of a circle.
 
+### In every task folder there is a more detailed explanation of the expected task.
 ### These are in order of difficulty (according to my subjective judgement).
 
 ## What you'll need to solve them
@@ -20,9 +21,6 @@ This is a repository **for employees** to review their interview subjects curren
 * Some of the newer versions of node.js (https://nodejs.org).
 * Opening a command line and run ```npm install``` in the root folder.
 * Diving in & some usage of google
-
-## More information
-In every test folder there is a more detailed explanation of the expected task.
 
 ## Check your solutions
 If you think your solution is fine run the **check.bat** file it will open a **report in your default browser** and tell you if something is wrong.
