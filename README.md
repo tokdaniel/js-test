@@ -12,7 +12,7 @@ This is a repository **for employees** to review their interview subjects curren
 * **Reduce** - Implement the javascript utility reduce.
 * **Circle Contains** - Determine if a given point is inside the area of a circle.
 
-## What you'll need
+## What you'll need to solve them
 * Your favourite IDE, editor or other stuff that lets you conveniently edit code.
 * Cloning, or saving this repository to your local filesystem.
 * Some of the newer versions of node.js (https://nodejs.org).
