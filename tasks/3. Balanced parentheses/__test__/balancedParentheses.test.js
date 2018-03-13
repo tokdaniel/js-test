@@ -18,7 +18,7 @@ describe('areParenthesesBalanced() function', () => {
 
   it('should return FALSE if the amount is matching but the order is wrong', function() {
 
-    const input = '(()())()';
+    const input = '(()()(()';
 
     expect(areParenthesesBalanced(input)).to.equal(false);
   });
