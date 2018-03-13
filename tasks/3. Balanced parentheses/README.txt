@@ -16,6 +16,6 @@ Incorrect cases (should return false)
 
 ()))
 
-(()()(()
+(()())()
 
 There can be characters anywhere between, after or before the parenteses.
