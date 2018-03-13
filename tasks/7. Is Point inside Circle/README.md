@@ -1,8 +1,8 @@
 # Point is inside Circle
 
-Implement a function *that takes in a Point** and a **Circle**, and **returns true** if the given **Point is within** the area of the **circle**.
+Implement a function **that takes in a Point** and a **Circle**, and **returns true** if the given **Point is within** the area of the **Circle**.
 
-NOTE: We provided you the basic implementation of Point and Circle. **Feel free to extend these** with your own methods.
+NOTE: We provided you the basic implementation of **Point** and **Circle**. **Feel free to extend these** with your own methods.
 
 ## Examples:
 
