@@ -1,0 +1,24 @@
+{
+  "name": "js-devtest",
+  "version": "1.0.0",
+  "description": "Written interview tests for js developers",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha **/__test__/*.test.js --require @babel/register --colors"
+  },
+  "keywords": [
+    "test",
+    "js",
+    "jobinterview"
+  ],
+  "author": "Daniel Tok",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "7.0.0-beta.40",
+    "@babel/preset-env": "7.0.0-beta.40",
+    "@babel/register": "7.0.0-beta.40",
+    "chai": "4.1.2",
+    "mocha": "5.0.4",
+    "sinon": "^4.4.4"
+  }
+}
