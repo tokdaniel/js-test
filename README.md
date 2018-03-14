@@ -13,7 +13,8 @@ This is a repository **for employees** to review their interview subjects curren
 7. [Circle Contains](https://github.com/tokdaniel/js-test/tree/master/tasks/7.%20Is%20Point%20inside%20Circle) - Determine if a given point is inside the area of a circle.
 
 ### In every task folder there is a more detailed explanation of the expected task.
-These are in order of difficulty (according to my subjective judgement).
+* These are in order of difficulty (according to my subjective judgement).
+* I plan to extend a list with new tasks in te future
 
 ## What you'll need to solve them
 * Your favourite IDE, editor or other stuff that lets you conveniently edit code.
