@@ -14,7 +14,7 @@ This is a repository **for employees** to review the current level of **knowledg
 
 ### In every task folder there is a more detailed explanation of the expected task.
 * These are in order of difficulty (according to my subjective judgement).
-* I plan to extend a list with new tasks in the future
+* I plan to extend the list with new tasks in the future
 
 ## What you'll need to solve them
 * Your favourite IDE, editor or other stuff that lets you conveniently edit code.
