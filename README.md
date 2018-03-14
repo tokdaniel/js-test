@@ -1,5 +1,5 @@
 # Javascript tests for internship/junior developer applicants
-This is a repository **for employees** to review their interview subjects current level of **knowledge, thinking and code quality**. Also for **js-developer wannabes** to **practice and learn**. 
+This is a repository **for employees** to review the current level of **knowledge, thinking and code quality** of interview subjects. Also for **js-developer wannabes** to **practice and learn**. 
 
 *Try to give a generic solution, rather than just satisfy the unit tests, since it doesn't do any good for anyone.:)*
 
