@@ -15,3 +15,7 @@ NOTE: We provided you the basic implementation of **Point** and **Circle**. **Fe
 * exampleCircle: ```Circle(Point(4,2), 2)```
 
 ```exampleCircle.includes(examplePoint) // returns false```
+
+
+## Tips & Tricks
+ * Think about what does that mean when a point is tangential, and why it should be considered inside the circle.

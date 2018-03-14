@@ -1,3 +1,3 @@
-export function encryptCaesar(inputString) {
+export function encryptCaesar(inputString, key) {
   // TODO: write your code here
 }

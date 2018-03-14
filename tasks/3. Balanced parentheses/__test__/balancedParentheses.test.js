@@ -16,6 +16,13 @@ describe('areParenthesesBalanced() function', () => {
     expect(areParenthesesBalanced(input)).to.equal(false);
   });
 
+  it('should return FALSE if the numbers are equal, but the order is wrong', function() {
+
+    const input = '())(()';
+
+    expect(areParenthesesBalanced(input)).to.equal(false);
+  });
+
   it('should return TRUE if the parentheses are correct', function() {
 
     const input = '(()((())()))';
