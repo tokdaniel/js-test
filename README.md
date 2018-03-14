@@ -3,7 +3,7 @@ This is a repository **for employees** to review the current level of **knowledg
 
 *Try to give a generic solution, rather than just satisfy the unit tests, since it doesn't do any good for anyone.:)*
 
-## The tests consist of implementation of several algorithms:
+## The tasks consist of implementation of several algorithms:
 1. [Palindromes](https://github.com/tokdaniel/js-test/blob/master/tasks/1.%20Palindrome%20check/README.md) - Check if the given input is a palindrome.
 2. [Fibonacci](https://github.com/tokdaniel/js-test/blob/master/tasks/2.%20Fibonacci%20-%20recursive/README.md) - Implement a function recursively, which returns the fibonacci numbers until N.
 3. [Balanced Parentheses](https://github.com/tokdaniel/js-test/blob/master/tasks/3.%20Balanced%20parentheses/README.md) - Determine if the given input string's parentheses are balanced.
