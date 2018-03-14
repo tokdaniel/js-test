@@ -1,4 +1,4 @@
-# Caesar cipher
+# Caesar's cipher
 
 Implement a function **that takes a string** and a **numeric key**, and **returns the caesar encrypted** version of that string **shifting** the **english ABC** with the key. No whitespaces only **consecutive letters** in mind.
 
