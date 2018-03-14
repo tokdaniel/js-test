@@ -1,7 +1,7 @@
 # Javascript tests for internship/junior developer applicants
 This is a repository **for employees** to review their interview subjects current level of **knowledge, thinking and code quality**. Also for **js-developer wannabes** to **practice and learn**. 
 
-**Try to give a generic solution, rather than just satisfy the unit tests, since it doesn't do any good for anyone.:)**
+*Try to give a generic solution, rather than just satisfy the unit tests, since it doesn't do any good for anyone.:)*
 
 ## The tests consist of implementation of several algorithms:
 1. [Palindromes](https://github.com/tokdaniel/js-test/blob/master/tasks/1.%20Palindrome%20check/README.md) - Check if the given input is a palindrome.
