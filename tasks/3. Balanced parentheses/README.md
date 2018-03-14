@@ -16,5 +16,5 @@ Implement a function that **takes in a string**, and determines if the **opening
 
 ## Tips & Tricks
 * There can be characters anywhere between, after or before the parenteses.
-* Think about how can go things wrong, if the amount of parentheses are the same.
+* Think about how can things go wrong, if the amount of opening & closing parentheses are the same.
 
