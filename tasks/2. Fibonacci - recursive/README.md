@@ -11,3 +11,4 @@ Implement a **recursive** function, that **takes in a number** and **returns an 
 
 ## Tips & Tricks
  * It doesn't make the outer function recursive, if you define and/or call another recursive function inside.
+ * Returning these in an array makes it somewhat harder, you should fiddle around with different approaches

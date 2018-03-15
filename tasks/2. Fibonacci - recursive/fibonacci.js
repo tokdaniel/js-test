@@ -1,6 +1,8 @@
-export default {
-  getFibonacciUntil(n) {
-    // TODO: write your code here, dont forget it should be recursive!
-    // HINT: there is a trap
+export function getFibonacciUntil(n) {
+  function getFibonacci(i) {
+    if (i === 0 || i === 1) return i;
+    if (i >= 2) return getFibonacci(i - 2) + getFibonacci(i - 1);
   }
-};
+  if (typeof n !== 'number') return false;
+  return Array.from({ length: n }, (_, index) => getFibonacci(index));
+}
