@@ -12,6 +12,8 @@ export default function(center, radius) {
     },
     includes(Point) {
       // TODO: write your code here
+       if(x+y <= radius) return true;
+       else return false;
     }
   }
 }
