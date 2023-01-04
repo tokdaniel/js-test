@@ -14,7 +14,7 @@
   "author": "Daniel Tok",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "7.0.0-beta.40",
+    "@babel/core": "7.20.7",
     "@babel/preset-env": "7.0.0-beta.40",
     "@babel/register": "7.0.0-beta.40",
     "chai": "4.1.2",
